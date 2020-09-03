@@ -1,8 +1,8 @@
 # PythonandDeepLearning
 
-Wiki link for Project1- https://github.com/sandeepsalkuti/PythonandDeepLearning/wiki/ICP6
+Wiki link for Project1- https://github.com/sandeepsalkuti/CSEE-5590-CS490-Python-and-Deep-Learning_Project_Exam1
 
-Wiki link for Project2- https://github.com/sandeepsalkuti/PythonandDeepLearning/wiki/ICP6
+Wiki link for Project2- https://github.com/sandeepsalkuti/CSEE-5590-CS490-Python-and-Deep-Learning_Project_Exam2
 
 Wiki link for ICP6- https://github.com/sandeepsalkuti/PythonandDeepLearning/wiki/ICP6
 
